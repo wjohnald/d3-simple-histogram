@@ -17,13 +17,13 @@
 
     this.container = options.container || '#main';
     this.margin = options.margin || {
-      top: 0,
-      right: 0,
-      bottom: 0,
-      left: 0,
-      xTitle: 0,
-      yTitle: 0,
-      chartTitle: 0
+      top:        10,
+      right:      30,
+      bottom:     50,
+      left:       30,
+      xTitle:     30,
+      yTitle:     30,
+      chartTitle: 30
     };
 
     // INIT ALL THE SVGs
