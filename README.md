@@ -1,6 +1,6 @@
 # Simple Histogram
 
-This class will consume data and plot a simple SVG histogram.
+This class will consume an array of data and plot a simple SVG histogram.
 
 ### What does simple mean?
 
