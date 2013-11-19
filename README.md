@@ -1,6 +1,21 @@
 # Simple Histogram
 
-This class will consume data and plot a basic SVG histogram.
+This class will consume data and plot a simple SVG histogram.
+
+### What does simple mean?
+
+This histogram will **always** create ten equal size bins for the supplied data.
+It will automagically compute the maximum x-value and y-value of the chart based
+on the supplied data.
+
+### Is that it?
+
+Nope. Once nice touch is that you can **zoom** a particular bin by clicking on it.
+The chart will automatically split the bin into ten equal size bins that cover the
+range of the previous bin. The columns will update accordingly. To zoom out again,
+just click anywhere else on the screen.
+
+![Screenshot](/chart-picture.png)
 
 # Dependencies
 
