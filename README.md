@@ -77,4 +77,7 @@ histo.updateData(data).render();
 
 ```
 
+This screenshot shows a *zoomed* state, that's why the totals in the title don't
+match up with the numbers being displayed.
+
 ![Screenshot](/chart-picture.png)
