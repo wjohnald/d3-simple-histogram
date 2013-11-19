@@ -30,7 +30,7 @@ you can leave out the margin paramter.
 
 'container' refers to the DOM element that will contain the chart.
 
-You *should* supply an accessor function unless the y_values in your data array
+You *should* supply an accessor function unless the y-values in your data array
 are simply called 'y' (but when is that ever the case?).
 
 You may also omit the titles, but why would you do that?
